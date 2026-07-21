@@ -19,11 +19,11 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0480_000-J.yaml, hash: 'sha256:4f640378cde63ee1e7d6ed0931d530bce14d77d0151e29974fb39fac5a33580b'}
+  - {seq: 0, filename: KR6q0480_000-J.yaml, hash: 'sha256:24660fb2a7ac2b0662c851c35d337ce91b3e41df77ef95aafa3f90dfa39a60fe'}
   - {seq: 1, filename: KR6q0480_001-J.yaml, hash: 'sha256:a10808cea0e2f03f5eef2d84ab1076a1924cd70b020b8900f3af79855192462e'}
   - {seq: 2, filename: KR6q0480_002-J.yaml, hash: 'sha256:2903d762f2b8d68942c96a7bb1fc92f266bb67de89c3aa8f2d5f8e7ecbaff501'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0480_000-J.markers.yaml, hash: 'sha256:7ba1266b52c613d0af48fe482dd61903e95724eb0dc1425f1be3d16836a43702'}
+  - {seq: 0, role: markers, filename: assets/KR6q0480_000-J.markers.yaml, hash: 'sha256:fdabe466325ef717b837ee54f3f244d09a43959adfd4b2d80c9d2d6e51502594'}
   - {seq: 1, role: markers, filename: assets/KR6q0480_001-J.markers.yaml, hash: 'sha256:222450060e2e027e0c6dcd23262ee74c0e4fb9d5babf35663660240f62763576'}
   - {seq: 2, role: markers, filename: assets/KR6q0480_002-J.markers.yaml, hash: 'sha256:3a09d1d2beb6571789a525768c96de26c6c32fbbf20b63c678442adb35e8c7d8'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0480_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -667,4 +667,4 @@ table_of_contents:
   label: 澬陽鳳山西峰禪寺中興碑記
   type: mulu
   level: 1
-hash: sha256:683eceb1cc9ea16f5d2558dd015a05dae5a436dafb8f3929fbe93f5b335775b4
+hash: sha256:7b19d23671d5e2f604d35fd9fbd55694c0d08edeaadddbb8904347781acab6be
